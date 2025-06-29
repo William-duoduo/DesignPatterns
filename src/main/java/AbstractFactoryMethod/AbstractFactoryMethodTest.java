@@ -6,7 +6,7 @@ import main.java.AbstractFactoryMethod.factory.SonFactoryA;
 
 public class AbstractFactoryMethodTest {
     public static void main(String[] args) {
-        //抽象工厂，这个设计模式的工厂包括产品都是没有具体实现。
+        //抽象工厂：这个设计模式的工厂包括产品都是抽象接口。
         /*
         问题场景如下：
         某制造业公司接到一笔订单，要求生产一批类型不等的办公椅，因时间紧迫，公司决定将订单拆分给子公司产线同时生产。

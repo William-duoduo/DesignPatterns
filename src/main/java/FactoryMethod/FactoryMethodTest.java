@@ -5,7 +5,7 @@ import main.java.FactoryMethod.factory.TransportFactory;
 
 public class FactoryMethodTest {
     public static void main(String[] args) {
-        //工厂方法模式是一种创建型设计模式， 其在父类中提供一个创建对象的方法， 允许子类决定实例化对象的类型。
+        //工厂方法模式：一种创建型设计模式， 其在父类中提供一个创建对象的方法， 允许子类决定实例化对象的类型。
         /*
         问题场景如下：
         一个月前，你开发的物流管理系统正式上线投入公司生产，主要经营陆地运输相关业务。
